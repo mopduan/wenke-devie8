@@ -1,0 +1,51 @@
+{
+  "name": "wenke-devie8",
+  "version": "1.0.0",
+  "description": "dev tool for wenke-webpack && ie8",
+  "main": "index.js",
+  "bin": {
+    "wenke-devie8": "bin/wenke-devie8"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mopduan/wenke-dev.git"
+  },
+  "keywords": [
+    "react",
+    "ie8",
+    "vue.js",
+    "babel",
+    "es6",
+    "es7",
+    "es8",
+    "webpack",
+    "gulp",
+    "commonjs",
+    "wenke",
+    "wenke-dev"
+  ],
+  "author": "mopduan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mopduan/wenke-devie8/issues"
+  },
+  "homepage": "https://github.com/mopduan/wenke-devie8",
+  "dependencies": {
+    "commander": "~2.1.0",
+    "async": "~0.7.0",
+    "babel-core": "~6.x",
+    "babel-preset-latest": "~6.x",
+    "babel-preset-react": "~6.x",
+    "babel-plugin-transform-runtime": "~6.15.x",
+    "gulp": "~3.9.1",
+    "webpack": "~1.x",
+    "babel-loader": "~6.2.x",
+    "css-loader": "~0.24.x",
+    "style-loader": "~0.13.x",
+    "file-loader": "~0.9.x",
+    "raw-loader": "~0.5.x",
+    "scriptjs": "2.5.8"
+  }
+}
