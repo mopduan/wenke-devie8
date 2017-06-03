@@ -1,12 +1,12 @@
 # wenke-devie8
-wenwen实时开发辅助工具 for ie8
+搜狗社区搜索实时开发辅助工具 for ie8 （不再维护）
 
 [![NPM](https://nodei.co/npm/wenke-devie8.svg?downloads=true)](https://nodei.co/npm/wenke-devie8/)
 
 [![npm version](https://badge.fury.io/js/wenke-devie8.svg)](https://badge.fury.io/js/wenke-devie8)
 
 
-> wenke-devie8是腾讯/搜狗问问实时开发辅助工具, 主要用于将ES6/7/8、React、Vue.js、前端模板、CSS、图片等静态资源实时编译为浏览器中可以正常运行的代码
+> wenke-devie8是腾讯/搜狗社区搜索实时开发辅助工具, 主要用于将ES6/7/8、React、Vue.js、前端模板、CSS、图片等静态资源实时编译为浏览器中可以正常运行的代码
 
 
 ```
