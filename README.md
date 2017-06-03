@@ -8,6 +8,11 @@ wenwen实时开发辅助工具 for ie8
 
 > wenke-devie8是腾讯/搜狗问问实时开发辅助工具, 主要用于将ES6/7/8、React、Vue.js、前端模板、CSS、图片等静态资源实时编译为浏览器中可以正常运行的代码
 
+
+```
+由于PC项目不再支持IE8, wenke-devie8 不再维护
+```
+
 ## 安装
 ```
 npm install -g wenke-devie8
